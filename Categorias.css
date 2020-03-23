@@ -1,0 +1,14 @@
+body {
+   margin: 22% 0 0 30%;
+   background-color: black;
+   color: white;
+}
+
+div {
+    margin-top: 30%;
+}
+
+a {
+    color: cyan;
+    text-decoration: underline;
+}
