@@ -1,0 +1,17 @@
+body { 
+margin: 22% 0 0 30%; 
+background-color: black; 
+color: white;
+}
+
+div { 
+ margin-top: 30%;
+ margin-left: 33px;
+} 
+ 
+a {
+  margin-left: 13px;
+  color: cyan; 
+  font-weight: bolder; 
+  text-decoration: none;
+}
