@@ -1,0 +1,16 @@
+body {
+    margin-top: 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: black;
+    color: white;
+}
+
+span {
+    margin-left:85px;
+}
+
+a {
+    color: cyan;
+    text-decoration: none;
+}
